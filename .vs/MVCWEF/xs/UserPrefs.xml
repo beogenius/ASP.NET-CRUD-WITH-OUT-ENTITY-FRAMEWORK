@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{FDB35256-6FE0-4C49-A1A2-3A483B58B4CF}|">
+  <MonoDevelop.Ide.ItemProperties.MVCWEF PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVCWEF/Controllers/ProductController.cs">
+    <Files>
+      <File FileName="MVCWEF/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="MVCWEF/Controllers/AccountController.cs" Line="28" Column="73" />
+      <File FileName="MVCWEF/Controllers/ProductController.cs" Line="24" Column="14" />
+      <File FileName="MVCWEF/Models/ProductModel.cs" Line="17" Column="2" />
+      <File FileName="MVCWEF/Models/IdentityModels.cs" Line="17" Column="2" />
+      <File FileName="MVCWEF/Views/Product/Create.cshtml" Line="32" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVCWEF" expanded="True">
+            <Node name="MVCWEF" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Content" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Product" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
